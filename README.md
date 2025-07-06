@@ -43,8 +43,8 @@ Me motiva proteger los sistemas, automatizar procesos y mantener infraestructura
 ## 📫 ¿Hablamos?
 
 - 💼 [LinkedIn](https://linkedin.com/in/tu-usuario) *(añádeme si tienes uno)*
-- ✉️ irigoyen.tucorreo@example.com *(reemplaza con tu correo profesional)*
-- 🌍 Ubicación: Bolivia
+- ✉️ saiv4568@gmail.com *(reemplaza con tu correo profesional)*
+- 🌍 Ubicación:Cochbamba-Bolivia
 
 ---
 
