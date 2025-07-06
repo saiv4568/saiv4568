@@ -49,7 +49,6 @@ Me motiva proteger los sistemas, automatizar procesos y mantener infraestructura
 <a href="https://www.linkedin.com/in/armando-irigoyen" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="saiv4568@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 - 📫 How to reach me: saiv4568@gmail.com
-<br></br>
 ---
 
 > *"La seguridad no es un producto, es un proceso." – Bruce Schneier*
