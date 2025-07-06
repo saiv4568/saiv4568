@@ -2,6 +2,8 @@
 
 # 👋 ¡Hola! Soy Armando Irigoyen
 
+<img src="https://www.linkedin.com/in/armando-irigoyen/overlay/background-image/">
+
 🎓 **Ingeniero de Sistemas** | 🛡️ **Especialista en Ciberseguridad** | 🖥️ **Apasionado por la Infraestructura IT**
 
 ---
