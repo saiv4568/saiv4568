@@ -44,7 +44,7 @@ Me motiva proteger los sistemas, automatizar procesos y mantener infraestructura
 
 - 💼 [LinkedIn](https://linkedin.com/in/tu-usuario) *(añádeme si tienes uno)*
 - ✉️ saiv4568@gmail.com *(reemplaza con tu correo profesional)*
-- 🌍 Ubicación:Cochbamba-Bolivia
+- 🌍 Ubicación:Cochabamba-Bolivia
 
 ---
 
