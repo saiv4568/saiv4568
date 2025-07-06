@@ -45,8 +45,8 @@ Me motiva proteger los sistemas, automatizar procesos y mantener infraestructura
 
 ## 📫 ¿Hablamos?
 
-- 💼 [LinkedIn](https://linkedin.com/in/armando-irigoyen) *(añádeme si tienes uno)*
-- ✉️ saiv4568@gmail.com *(reemplaza con tu correo profesional)*
+- 💼 [LinkedIn](https://linkedin.com/in/armando-irigoyen) 
+- ✉️ saiv4568@gmail.com 
 - 🌍 Ubicación:Cochabamba-Bolivia
 
 ---
