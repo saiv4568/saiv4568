@@ -44,7 +44,7 @@ Me motiva proteger los sistemas, automatizar procesos y mantener infraestructura
 
 ---
 
-## 📫 ¿Hablamos?
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 
 - 💼 [LinkedIn](https://linkedin.com/in/armando-irigoyen) 
 - ✉️ saiv4568@gmail.com 
