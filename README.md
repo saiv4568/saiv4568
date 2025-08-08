@@ -16,7 +16,7 @@ Soy un ingeniero de sistemas con experiencia en:
 - 🖧 **Administración de redes e infraestructura**
 - 🛠️ **Soporte técnico y soluciones IT**
 - ☁️ **Virtualización, backups y gestión de servidores**
-- 💻 Conocimientos en desarrollo web (nivel intermedio)
+- 💻 Conocimientos en desarrollo web 
 
 Me motiva proteger los sistemas, automatizar procesos y mantener infraestructuras estables y seguras.
 
