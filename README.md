@@ -1,6 +1,6 @@
 
 
-# 👋 ¡Hola! Soy Armando Irigoyen
+# 👋 ¡Hola! 
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQETh9wWgsSOuw/profile-displaybackgroundimage-shrink_350_1400/B4EZYsnhYFHgBU-/0/1744505281097?e=1757548800&v=beta&t=zxtSbsceBI0qcnMNau2G8va_kc8oJ0yRQ14z4HgYBPw">
 
