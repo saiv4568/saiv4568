@@ -9,7 +9,7 @@ My focus is on building and maintaining reliable, secure, and efficient IT envir
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#2563eb,#0e1b2e00);margin:16px 0;"/>
 🛠️ Technologies & Tools
-<div align="center"> <h4>⚙️ Core Technologies</h4> <img src="https://skillicons.dev/icons?i=python,php,laravel,linux,windows,docker,bash,git,github,mysql,html,css,kali" alt="Core Technologies"/>
+<div align="center"> <h4>⚙️ Core Technologies</h4> <img src="https://skillicons.dev/icons?i=python,laravel,linux,windows,docker,bash,git,github,mysql,wordpress,kali" alt="Core Technologies"/>
 <br/><br/>
 
 <h4>🛡️ Cybersecurity & Networking</h4> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/> <img src="https://img.shields.io/badge/Networking-2563EB?style=flat-square&logo=cisco&logoColor=white" alt="Networking"/> </div> <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#2563eb,#0e1b2e00);margin:16px 0;"/>
