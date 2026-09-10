@@ -37,6 +37,5 @@ More projects and technical documentation coming soon.
 </p>
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiv4568&theme=github-dark&hide_border=true&area=true&custom_title=GitHub%20Activity" alt="GitHub Activity"/> </div> <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#2563eb,#0e1b2e00);margin:16px 0;"/>
 🌐 Connect with me
 <div align="center"> <a href="https://github.com/saiv4568" title="GitHub"> <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36" alt="GitHub"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/armando-irigoyen" title="LinkedIn"> <img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" width="36" height="36" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:saiv4568@gmail.com" title="Email"> <img src="https://img.icons8.com/ios-filled/48/ffffff/gmail.png" width="36" height="36" alt="Email"/> </a> </div> <br/>
