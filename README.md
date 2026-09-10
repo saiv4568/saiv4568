@@ -25,7 +25,17 @@ More projects and technical documentation coming soon.
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#2563eb,#0e1b2e00);margin:16px 0;"/>
 📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/saiv4568"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiv4568&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Statistics"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiv4568&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/> </a>
+<div align="center"> <a href="https://github.com/saiv4568"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiv4568&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Statistics"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiv4568&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/> </a> 
+
+  ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/saiv4568">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saiv4568&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br/><br/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saiv4568&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiv4568&theme=github-dark&hide_border=true&area=true&custom_title=GitHub%20Activity" alt="GitHub Activity"/> </div> <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#2563eb,#0e1b2e00);margin:16px 0;"/>
